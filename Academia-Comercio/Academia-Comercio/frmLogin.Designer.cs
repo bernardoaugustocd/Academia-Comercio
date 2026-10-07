@@ -47,7 +47,7 @@
             btnEntrar.BackColor = Color.SteelBlue;
             btnEntrar.FlatStyle = FlatStyle.Flat;
             btnEntrar.Font = new Font("Arial", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnEntrar.Location = new Point(489, 318);
+            btnEntrar.Location = new Point(481, 306);
             btnEntrar.Name = "btnEntrar";
             btnEntrar.Size = new Size(118, 40);
             btnEntrar.TabIndex = 0;
